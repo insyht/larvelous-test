@@ -1,0 +1,22 @@
+{
+  "name": "insyht/larvelous-test",
+  "type": "library",
+  "description": "Test plugin for the Larvelous CMS.",
+  "keywords": [
+    "cms",
+    "larvelous"
+  ],
+  "authors": [
+    {
+      "name": "Jordy Thijs",
+      "email": "jordy@insyht.nl"
+    }
+  ],
+  "require": {
+    "php": "^8.2",
+    "illuminate/support": "*",
+    "insyht/larvelous": "master"
+  },
+  "minimum-stability": "dev",
+  "prefer-stable": true
+}
