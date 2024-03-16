@@ -1,0 +1,7 @@
+{
+  "base": "iws",
+  "name": "Larvelous Test Plugin",
+  "path": "insyht/larvelous-test",
+  "namespace": "\\Insyht\\LarvelousTest",
+  "author": "insyht"
+}
